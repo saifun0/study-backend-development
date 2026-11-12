@@ -1,0 +1,6 @@
+curl -i http://localhost:3000/
+curl -i http://localhost:3000/api/orders
+curl -i http://localhost:3000/api/clients
+curl -i http://localhost:3000/api/orders/5
+curl -i http://localhost:3000/api/orders/ivan
+curl -i http://localhost:3000/unknown-route
